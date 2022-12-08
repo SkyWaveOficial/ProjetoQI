@@ -1,0 +1,8 @@
+body {
+    position: relative;
+    background-image: url("../img/Logo.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 500px;
+    height: 500px;
+}
